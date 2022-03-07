@@ -1,0 +1,4 @@
+baseURL = "https://erdalbilisim.vercel.app/"
+languageCode = "tr-tr"
+title = "Erdal Bİlisim Blog"
+theme = "ananke"
